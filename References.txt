@@ -1,0 +1,13 @@
+Data merging:
+
+Clearing name cell:
+https://pandas.pydata.org/docs/reference/api/pandas.Series.str.strip.html#pandas.Series.str.strip
+
+Choosing columns:
+https://pandas.pydata.org/docs/user_guide/indexing.html
+
+inplace:
+https://www.geeksforgeeks.org/python/what-does-inplace-mean-in-pandas/
+
+Merging:
+https://stackoverflow.com/questions/55639115/combining-csvs-with-different-columns-using-pandas-with-key-column
