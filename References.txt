@@ -35,3 +35,15 @@ https://stackoverflow.com/questions/52536692/inputting-null-values-through-np-se
 
 getting number of rows:
 https://dev.to/askyt/pandas-count-rows-how-to-get-the-number-of-rows-in-a-dataframe-3ll7
+
+Cleaning and preparing critic reviews
+
+
+groupBy:
+https://realpython.com/pandas-groupby/
+
+transform('median')
+https://stackoverflow.com/questions/17139918/finding-median-with-pandas-transform
+
+fillna:
+https://www.makeuseof.com/fill-missing-data-with-pandas/
