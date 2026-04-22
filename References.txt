@@ -47,3 +47,9 @@ https://stackoverflow.com/questions/17139918/finding-median-with-pandas-transfor
 
 fillna:
 https://www.makeuseof.com/fill-missing-data-with-pandas/
+
+outliers:
+https://www.educative.io/answers/how-to-cap-outliers-from-a-series-dataframe-column-in-pandas
+
+sns.boxplot():
+https://stackoverflow.com/questions/49554139/boxplot-of-multiple-columns-of-a-pandas-dataframe-on-the-same-figure-seaborn
