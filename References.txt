@@ -54,3 +54,12 @@ https://wellsr.com/python/outlier-data-handling-with-python/
 
 sns.boxplot():
 https://stackoverflow.com/questions/49554139/boxplot-of-multiple-columns-of-a-pandas-dataframe-on-the-same-figure-seaborn
+
+drop columns:
+https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.drop.html
+
+non numeric:
+https://stackoverflow.com/questions/54426845/how-to-check-if-a-pandas-dataframe-contains-only-numeric-values-column-wise
+
+missing vlaues:
+https://medium.com/@bouimouass.o/identify-missing-values-in-each-column-with-pandas-d4bdefb150dd
