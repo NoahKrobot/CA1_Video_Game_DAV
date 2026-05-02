@@ -64,5 +64,13 @@ https://stackoverflow.com/questions/54426845/how-to-check-if-a-pandas-dataframe-
 missing vlaues:
 https://medium.com/@bouimouass.o/identify-missing-values-in-each-column-with-pandas-d4bdefb150dd
 
+
+Multiv analysis:
+
+
 Heatmap:
 https://www.youtube.com/watch?v=0U9cs2V-Mqc
+
+check min max within my dataset
+https://stackoverflow.com/questions/47006617/finding-max-min-value-of-individual-columns
+
