@@ -77,3 +77,5 @@ https://stackoverflow.com/questions/47006617/finding-max-min-value-of-individual
 Scatter alpha and sizes:
 https://jakevdp.github.io/PythonDataScienceHandbook/04.02-simple-scatter-plots.html
 
+Standard Scaler vs MinMaxScaler
+https://pub.towardsai.net/data-scaling-101-standardscaler-vs-minmaxscaler-e8f78d77283f
