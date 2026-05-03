@@ -79,3 +79,9 @@ https://jakevdp.github.io/PythonDataScienceHandbook/04.02-simple-scatter-plots.h
 
 Standard Scaler vs MinMaxScaler
 https://pub.towardsai.net/data-scaling-101-standardscaler-vs-minmaxscaler-e8f78d77283f
+
+Markers:
+https://www.w3schools.com/python/matplotlib_markers.asp
+
+Cluster boxplots:
+https://stackoverflow.com/questions/72301993/create-one-boxplot-per-cluster-for-each-column-of-information-for-a-dataframe
