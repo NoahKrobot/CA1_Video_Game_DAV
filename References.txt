@@ -95,3 +95,4 @@ https://www.datacamp.com/tutorial/how-to-normalize-data
 
 Skewness:
 https://www.geeksforgeeks.org/data-science/how-to-calculate-skewness-and-kurtosis-in-python/
+https://www.smartpls.com/documentation/functionalities/excess-kurtosis-and-skewness
