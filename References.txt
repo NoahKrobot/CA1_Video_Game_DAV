@@ -85,3 +85,10 @@ https://www.w3schools.com/python/matplotlib_markers.asp
 
 Cluster boxplots:
 https://stackoverflow.com/questions/72301993/create-one-boxplot-per-cluster-for-each-column-of-information-for-a-dataframe
+
+
+
+Normalization:
+
+Tutorial:
+https://www.datacamp.com/tutorial/how-to-normalize-data
