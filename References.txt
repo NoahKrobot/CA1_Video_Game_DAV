@@ -96,3 +96,6 @@ https://www.datacamp.com/tutorial/how-to-normalize-data
 Skewness:
 https://www.geeksforgeeks.org/data-science/how-to-calculate-skewness-and-kurtosis-in-python/
 https://www.smartpls.com/documentation/functionalities/excess-kurtosis-and-skewness
+
+skewness and zero:
+https://medium.com/@lamunozs/dealing-with-skewed-data-a-practical-guide-part-i-394f725092cb#:~:text=This%20is%20due%20to%20abundant%20sources%20of%20variability%20and%20a%20particular%20situation%3A%20many%20zero%20values%20(Figure%201)
